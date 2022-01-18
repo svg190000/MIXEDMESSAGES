@@ -5,5 +5,5 @@
 + node (run)
 ## Instructions
 + To run the program: 
->    $ cd /folderLocation
+>    $ cd /folderLocation\n
 >    $ node mixedMessages.js
